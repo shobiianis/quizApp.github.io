@@ -1,0 +1,60 @@
+
+.customTypo{
+    font-family: 'Acme', sans-serif;
+    font-size: 60px;
+    color: #ffffff;
+}
+.firstRow{
+   background-color:  #2a9d8f;
+}
+.marginUp{
+    margin-top: 5vh;
+}
+
+.bgYellow{
+    background-color: #e9c46a;
+}
+
+.optionButton{
+    width: 380px;
+    background-color: #2a9d8f;
+    opacity: 90%;
+    border: green;
+    height: 40px;
+    
+}
+#questionDisplay{
+    width: 34vw;
+    height: 28vh;
+}
+
+.afterQuiz{
+    
+    background-color:#e9c46a;
+    height: 40vh;
+}
+
+.customMargin{
+    margin-top: 10%;
+}
+.afterQuizPara{
+    text-align: center;
+    font-size: 30px;
+    color:#264653;
+    padding-top: 29px;
+}
+
+
+input{
+    
+    width: 250px;
+}
+
+input::placeholder{
+    
+    color: #264653;
+    padding-left: 10px;
+}
+.customBtn{
+    width:250px ;
+}
